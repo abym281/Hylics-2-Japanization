@@ -1,7 +1,7 @@
 # Hylics2 日本語化mod
 Hylics2の大部分を日本語化します。**現在はランダムテキストに対応していません。**
-画像もこんな感じに翻訳されます。
-![jpn](https://user-images.githubusercontent.com/127379167/224023464-74c8fcee-ed38-4b68-9d08-4b92e85e95c1.png)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これは音を入れ忘れたHylics2をちょっとだけ日本語化した様子の動画<br>ここに戒めとして残しておく <a href="https://t.co/qkgSd1b0CH">pic.twitter.com/qkgSd1b0CH</a></p>&mdash; abym (@abym281) <a href="https://twitter.com/abym281/status/1623280843988025345?ref_src=twsrc%5Etfw">February 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Hylics2の翻訳の進捗状態です <a href="https://t.co/FxWkmcw9U0">pic.twitter.com/FxWkmcw9U0</a></p>&mdash; abym (@abym281) <a href="https://twitter.com/abym281/status/1629470391201853440?ref_src=twsrc%5Etfw">February 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 導入方法
 1. Hylics2のインストール先フォルダを探します。Steamを開き、[ライブラリ]のゲーム一覧からHylics2を選択します。
