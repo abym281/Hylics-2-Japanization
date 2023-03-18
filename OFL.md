@@ -85,10 +85,13 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 
 
 >>>>>>> 9de28b7 (v0.80)
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
