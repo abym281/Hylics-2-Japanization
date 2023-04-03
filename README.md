@@ -7,7 +7,7 @@ Hylics2の大部分を日本語化します。**ランダムテキストに対�
 
 **"Hylics2_Windows_Data"フォルダごとバックアップをとることをおすすめします。**
 
-1. 本ページ右の"Releases"より"Hylics2_JP_v0.86"をダウンロードし、好きなところに解凍します。
+1. 本ページ右の"Releases"より"Hylics2_JP_v0.88"をダウンロードし、好きなところに解凍します。
 2. Hylics2のインストール先フォルダを探します。Steamを開き、[ライブラリ]のゲーム一覧からHylics2を選択します。
 3. Hylics2の画面に遷移したら、右の方にある歯車アイコンから[管理]より[ローカルファイルを閲覧]を選択します。
 4. 既存の"Hylics2_Windows_Data"フォルダ内のファイルを、配布ファイル内にある"Hylics2_Windows_Data"フォルダ内のファイルに置き換えます。
@@ -25,10 +25,11 @@ Hylics2の大部分を日本語化します。**ランダムテキストに対�
 + 2023/03/19 v0.82 v0.80で発生していたバグを修正
 + 2023/03/24 v0.84 v0.82に引き続いたバグの修正
 + 2023/03/29 v0.86 誤訳・翻訳抜けを修正
++ 2023/04/03 v0.88 フォント変更、その他軽微な修正
 
 ## クレジット
 + SIL OPEN FONT LICENSE - https://scripts.sil.org/OFL_web
-+ APACHE LICENSE, VERSION 2.0 - https://www.apache.org/licenses/LICENSE-2.0
++ (v0.70~v0.86)APACHE LICENSE, VERSION 2.0 - https://www.apache.org/licenses/LICENSE-2.0
 
 ## 作成者情報
 + 作成者 - abym
